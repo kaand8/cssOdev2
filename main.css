@@ -1,0 +1,68 @@
+.logo{
+    height:113px;
+    width:351px;
+    margin: 150px auto 0px;
+}
+.search{
+    height: 150px;
+    width: 1400px;
+    background-color: grey;
+    margin: 0px auto;
+}
+.slogan{
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+.searchInp{
+    width: 450px;
+    height: 20px;
+    display: inline-block;
+}
+.searchForm{
+    width: 450px;
+    margin: 15px auto;
+}
+.searchBut{
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: auto;
+    height: 35px;
+    width: 150px;
+    display: inline-block;
+}
+.footer1{
+    display: inline-block;
+    float: left;
+    width: 420px;
+    height: 130px;
+    background-color: aqua;
+}
+.footer2{
+    display: inline-block;
+    float: left;
+    width: 280px;
+    height: 130px;
+    background-color: aquamarine;
+}
+.footer3{
+    display: inline-block;
+    float: left;
+    width: 700px;
+    height: 130px;
+    background-color: rgb(53, 171, 171);
+}
+.kapsayici{
+    width: 1400px;
+    margin-top: 40px;
+    text-align: center;
+}
+.kapsayici ul{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+.kapsayici ul li:first-child{
+    padding-top: 25px;
+}
+
